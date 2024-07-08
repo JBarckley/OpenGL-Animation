@@ -1,7 +1,9 @@
 # OpenGL-Animation
 An OpenGL animation using proper lighting, shading, and rendering techniques.
-Running should be as simple as downloading the EXE and glew32.dll, putting them in the same directory, and running the EXE. (Only on windows)
+Running should be as simple running the EXE. (Only on windows)
 Use arrow keys to rotate the camera.
+
+When I uploaded this project a couple of years ago, I didn't upload the jpegs for the background and since then I've lost the files so I used a replacement background. Oh well.
 
 
 All models & textures come from free online sources, they are not my work:
