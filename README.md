@@ -12,3 +12,5 @@ Football: https://free3d.com/3d-model/football-99259.html
 Trophy: https://free3d.com/3d-model/smallcup-v1--540492.html
 Beach Ball + Baseball Textures: https://www.robinwood.com/Catalog/FreeStuff/Textures/TexturePages/BallMaps.html
 Stadium: https://hdrihaven.com/hdri/?h=stadium_01
+
+https://johnb.bearblog.dev/trophy/
